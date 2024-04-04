@@ -326,6 +326,31 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 70%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .git {
+  width: 80%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .detail {
+  width: 77%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .creativite {
+  width: 75%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .adaptation {
+  width: 85%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .teamwork {
+  width: 75%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .pbresolution {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .proposition {
+  width: 85%;
+}
 
 .stat-title {
   text-transform: uppercase;
